@@ -1,40 +1,32 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
+    "name": "Binisha Shrestha",
     "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "description": "Web/Mobile Developer",
+    "image": "Binisha.jpg",
+    "bio": "I am passionate aboutI makeing things that make a difference. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.  I have done work in software development, mobile app creation, front-end/back-end web and database/server management",
+    "contactmessage": "Get in touch with me.",
+    "email": "shrestha.binishaa@gmail.com",
+    "phone": "+1 701 739 7051",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "3717 Berkerley Dr. ",
+      "city": "Grand Forks",
+      "state": "ND",
+      "zip": "58203"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
+     
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/shresthabinisha/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://gitlab.com/sthabinisha",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +35,31 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of North Dakota - Grand Forks",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "December 2020",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "Currently open to land on new and exciting projects.",
+        "title": "Looking for a Software Engineer ?",
+        "years": "",
+        "description": ""
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+
+        "company": "Energy & Environmental Research Center",
+        "title": "Student Programmer",
+        "years": "Jun 2020 - Dec 2020",
+        "description": "Build a Java application for predicting the size and composition of ash during coal combustion using core Java"
+      },
+      {
+        "company": "KDUO Production",
+        "title": "Software Developer",
+        "years": "Sep 2017 - Dec 2018",
+        "description": "Developed an Android app based on trading stocks that teach how to invest in the Nepal stock using techniques such as Model View Viewmodel (MVVM), Retrofit, Test Driven Development, Firebase, and Material Design"
       }
     ],
     "skills": [
@@ -89,16 +88,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "COVID-19 Tracker",
+        "category": "Build with React-native, line graph and hosted on firebase",
+        "image": "zoom.png",
+        "url": "https://covid-19-tracker-58804.web.app/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Jetpack compose with MVVM",
+        "category": "Kotlin, Android Native with Jetpack Compose",
+        "image": "robinhood.png",
+        "url": "https://gitlab.com/sthabinisha/jetpack-compose-mvvm"
+      },
+       {
+        "title": "Sweet Retreat website",
+        "category": "Built using .Net Core and Azure",
+        "image": "sweettreat.png",
+        "url": "https://sweettreat.azurewebsites.net/"
       }
     ]
   },
