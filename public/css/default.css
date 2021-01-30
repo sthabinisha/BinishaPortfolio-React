@@ -792,8 +792,12 @@ input[type="checkbox"] {
 --------------------------------------------------------------- */
 .row {
   width: 96%;
-  /* max-width: 1020px; */
+  max-width: 1220px;
   margin: 0 auto;
+}
+.row-p {
+  margin: 0 auto;
+  margin: 0 -20px;
 }
 /* fixed width for IE8 */
 .ie .row {
@@ -995,7 +999,7 @@ input[type="checkbox"] {
   width: 16.66667%;
 }
 .bgrid-quarters [class*="column"] {
-  width: 40%;
+  width: 30%;
 }
 .bgrid-thirds [class*="column"] {
   width: 33.33333%;

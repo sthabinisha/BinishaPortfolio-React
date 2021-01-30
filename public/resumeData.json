@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Binisha Shrestha",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Web/Mobile Developer",
+    "occupation": "",
+    "description": "Web / Mobile Developer",
     "image": "Binisha.jpg",
-    "bio": "I am passionate aboutI makeing things that make a difference. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.  I have done work in software development, mobile app creation, front-end/back-end web and database/server management",
+    "bio": "I am passionate about making things that make a difference. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.  I have done work in software development, mobile app creation, front-end/back-end web and database/server management.",
     "contactmessage": "Get in touch with me.",
     "email": "shrestha.binishaa@gmail.com",
     "phone": "+1 701 739 7051",
     "address": {
-      "street": "3717 Berkerley Dr. ",
-      "city": "Grand Forks",
-      "state": "ND",
-      "zip": "58203"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
     "website": "",
     "resumedownload": "",

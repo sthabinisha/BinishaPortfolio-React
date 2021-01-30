@@ -141,7 +141,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
+  font: 12px "roboto", sans-serif;
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -152,7 +152,7 @@ header .scrolldown a:hover {
   top: 0;
 }
 .opaque {
-  background-color: #ce9586;
+  background-color: #ba8365;
 }
 
 /* hide toggle button */
@@ -196,7 +196,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #44031b;
 }
 
 /* ------------------------------------------------------------------ */
@@ -204,7 +204,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: #fff;
+  background: #ffeadd;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -220,12 +220,13 @@ ul#nav li.current a {
 }
 
 #about h2 {
-  font: 22px/30px "opensans-bold", sans-serif;
+  font: 22px/30px "proxima nova light", sans-serif;
   color: #000;
   margin-bottom: 12px;
 }
 #about p {
   line-height: 30px;
+  font-family: "roboto", sans-serif;
   color: #7a7a7a;
 }
 #about .profile-pic {
@@ -278,16 +279,16 @@ ul#nav li.current a {
 }
 
 #resume h1 {
-  font: 18px/24px "opensans-bold", sans-serif;
+  font: 18px/24px "proxima nova light", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 #resume h1 span {
-  border-bottom: 3px solid #11abb0;
+  border-bottom: 3px solid #ce9586;
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 25px/30px "opensans-bold", sans-serif;
+  font: 25px/30px "proxima nova regular", sans-serif;
 }
 
 #resume .header-col {
@@ -314,7 +315,7 @@ ul#nav li.current a {
   margin-left: 5px;
 }
 #resume .date {
-  font: 15px/24px "opensans-regular", sans-serif;
+  font: 15px/24px "roboto", sans-serif;
   margin-top: 6px;
 }
 
@@ -469,7 +470,7 @@ ul#nav li.current a {
 
 #portfolio-wrapper {
   display: flex;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
 }
 
 /* Portfolio Content */
@@ -543,11 +544,11 @@ ul#nav li.current a {
   padding: 18px;
 }
 .portfolio-item .portfolio-item-meta h5 {
-  font: 14px/21px "opensans-bold", sans-serif;
+  font: 14px/21px "roboto", sans-serif;
   color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-  font: 12px/18px "opensans-light", sans-serif;
+  font: 12px/18px "roboto", sans-serif;
   color: #c6c7c7;
   margin-bottom: 0;
 }
@@ -893,7 +894,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #994c38;
+  color: #11abb0;
 }
 #contact a:hover,
 #contact a:focus {
