@@ -1031,7 +1031,7 @@ properly.
     width: 16.66667%;
   }
   .s-bgrid-quarters [class*="column"] {
-    width: 25%;
+    width: 25 %;
   }
   .s-bgrid-thirds [class*="column"] {
     width: 33.33333%;

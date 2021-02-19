@@ -26,7 +26,7 @@
       
       {
         "name": "github",
-        "url": "https://gitlab.com/sthabinisha",
+        "url": "https://github.com/sthabinisha",
         "className": "fa fa-github"
       }
     ]
@@ -97,7 +97,7 @@
         "title": "Jetpack compose with MVVM",
         "category": "Kotlin, Android Native with Jetpack Compose",
         "image": "robinhood.png",
-        "url": "https://gitlab.com/sthabinisha/jetpack-compose-mvvm"
+        "url": "https://github.com/sthabinisha/Android-Jetpack-Compose-MVVM-Kotlin"
       },
        {
         "title": "Sweet Retreat website",
