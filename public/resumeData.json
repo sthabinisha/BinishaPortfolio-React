@@ -2,9 +2,9 @@
   "main": {
     "name": "Binisha Shrestha",
     "occupation": "",
-    "description": "Web / Mobile Developer",
+    "description": "Full Stack Developer",
     "image": "Binisha.jpg",
-    "bio": "I am passionate about making things that make a difference. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.  I have done work in software development, mobile app creation, front-end/back-end web and database/server management.",
+    "bio": "I am passionate about creating impactful software that makes a difference. My expertise lies in developing software solutions for a diverse range of clients, including individuals, small enterprises, and major corporations. Over the years, I have gained experience in software development, mobile app development, front-end/back-end web development, and database/server administration.",
     "contactmessage": "Get in touch with me.",
     "email": "shrestha.binishaa@gmail.com",
     "phone": "+1 701 739 7051",
@@ -49,18 +49,19 @@
         "description": ""
       },
       {
-
-        "company": "Energy & Environmental Research Center",
-        "title": "Student Programmer",
-        "years": "Jun 2020 - Dec 2020",
-        "description": "Build a Java application for predicting the size and composition of ash during coal combustion using core Java"
+        "company": "Capital Indemnity Corp. (Capspecialty)",
+        "title": "Software Engineer",
+        "years": "June 2021 - Present",
+        "description": "As a backend engineer, I leverage AWS services extensively to develop and optimize applications for intelligent workflows, focusing on scalability, security, and efficient data processing."
       },
       {
-        "company": "KDUO Production",
-        "title": "Software Developer",
-        "years": "Sep 2017 - Dec 2018",
-        "description": "Developed an Android app based on trading stocks that teach how to invest in the Nepal stock using techniques such as Model View Viewmodel (MVVM), Retrofit, Test Driven Development, Firebase, and Material Design"
+
+        "company": "Energy & Environmental Research Center",
+        "title": "Software Engineer",
+        "years": "Jun 2019 - May 2021 ·",
+        "description": "Created a Java app for coal ash analysis, handling data calculation, GUI deployment, and using core Java, SQL, Spring Boot, Hibernate, and Git for precise predictions."
       }
+      
     ],
     "skills": [
       {
@@ -87,11 +88,13 @@
   },
   "portfolio": {
     "projects": [
+      
+      
       {
-        "title": "COVID-19 Tracker",
-        "category": "Build with React-native, line graph and hosted on firebase",
-        "image": "zoom.png",
-        "url": "https://covid-19-tracker-58804.web.app/"
+        "title": "Estore",
+        "category": "Estore built with React",
+        "image": "estore.png",
+        "url": "https://e-storebash.netlify.app/"
       },
       {
         "title": "Jetpack compose with MVVM",
@@ -99,12 +102,51 @@
         "image": "robinhood.png",
         "url": "https://github.com/sthabinisha/Android-Jetpack-Compose-MVVM-Kotlin"
       },
+      
        {
-        "title": "Sweet Retreat website",
+        "title": "bookworm website",
         "category": "Built using .Net Core and Azure",
-        "image": "sweettreat.png",
-        "url": "https://sweettreat.azurewebsites.net/"
+        "image": "bookwormsomee.png",
+        "url": "http://bookworm.somee.com/"
+      },
+      {
+        "title": "FinePrint",
+        "category": "Adding value to ink \n Website no longer available.",
+        "image": "fp.png"
+        
+      },
+      {
+        "title": "City Square",
+        "category": "Built with wordpress",
+        "image": "np.png",
+        "url": "https://citysquare.com.np/"
+      },
+      
+       {
+        "title": "Nepal Literature Festival",
+        "category": "Built with wordpress",
+        "image": "npf.png",
+        "url": "https://nepalliteraturefestival.com/"
+      },
+      {
+        "title": "Bookworm",
+        "category": "Built using Magento, PHP",
+        "image": "bookworm.png"
+      },
+      {
+        "title": "PDRC",
+        "category": "Built with wordpress",
+        "image": "pdrcs.png",
+        "url": "https://www.pdrcus.org/"
+      },
+      {
+        "title": "ZeroneBits",
+        "category": "Built using wordpress",
+        "image": "zerone.png",
+        "url": "https://zeronebits.com/"
       }
+      
+       
     ]
   },
   "testimonials": {

@@ -430,7 +430,7 @@ a,
 a:visited {
   text-decoration: none;
   outline: 0;
-  color: #11abb0;
+  color: #994c38;
 
   -webkit-transition: color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out;
@@ -528,7 +528,7 @@ li p {
   color: #313131;
 }
 .stats-tabs li a:hover {
-  color: #11abb0;
+  color: #994c38;
 }
 .stats-tabs li a b {
   display: block;
@@ -544,7 +544,7 @@ dl {
 }
 dt {
   margin: 0;
-  color: #11abb0;
+  color: #994c38;
 }
 dd {
   margin: 0 0 0 20px;
@@ -622,7 +622,7 @@ dd {
 }
 .pagination .current,
 .pagination .current:hover {
-  background-color: #11abb0;
+  background-color: #994c38;
   color: #fff;
 }
 .pagination .inactive,
@@ -656,7 +656,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   font: 16px/30px "opensans-bold", sans-serif;
-  background: #11abb0;
+  background: #994c38;
   display: inline-block;
   text-decoration: none;
   letter-spacing: 0;

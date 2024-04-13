@@ -9,10 +9,13 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
+    "react-native": "^0.59.10",
     "react-native-file-selector": "^1.0.0",
     "react-native-fs": "^2.16.6",
     "react-native-mime-types": "^2.3.0",
-    "react-scripts": "3.4.3"
+    "react-native-windows": "^0.57.2",
+    "react-scripts": "3.4.3",
+    "typescript": "^5.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthabinisha/BinishaPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthabinisha/BinishaPortfolio/issues"
+  },
+  "homepage": "https://github.com/sthabinisha/BinishaPortfolio#readme"
 }

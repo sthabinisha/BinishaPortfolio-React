@@ -101,7 +101,7 @@ header .social li a {
   color: #fff;
 }
 header .social li a:hover {
-  color: #11abb0;
+  color: #994c38;
 }
 
 /* scrolldown link */
@@ -125,7 +125,7 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #11abb0;
+  color: #994c38;
 }
 
 /* primary navigation
@@ -216,7 +216,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: #11abb0;
+  color: #994c38;
 }
 
 #about h2 {
@@ -271,7 +271,7 @@ ul#nav li.current a {
 
 #resume a,
 #resume a:visited {
-  color: #11abb0;
+  color: #994c38;
 }
 #resume a:hover,
 #resume a:focus {
@@ -894,7 +894,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #11abb0;
+  color: #994c38;
 }
 #contact a:hover,
 #contact a:focus {
