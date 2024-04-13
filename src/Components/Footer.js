@@ -21,7 +21,7 @@ class Footer extends Component {
            
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Binisha Shrestha</li>
+              <li>&copy; Copyright 2024 Binisha Shrestha</li>
               
            </ul>
 

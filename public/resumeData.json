@@ -43,13 +43,13 @@
     ],
     "work": [
       {
-        "company": "Currently open to land on new and exciting projects.",
-        "title": "Looking for a Software Engineer ?",
+       
+        "title": "Open to Exciting Opportunities and Coffee Chats!",
         "years": "",
         "description": ""
       },
       {
-        "company": "Capital Indemnity Corp. (Capspecialty)",
+        "company": "Capital Indemnity CORP. (Capspecialty)",
         "title": "Software Engineer",
         "years": "June 2021 - Present",
         "description": "As a backend engineer, I leverage AWS services extensively to develop and optimize applications for intelligent workflows, focusing on scalability, security, and efficient data processing."
@@ -110,8 +110,8 @@
         "url": "http://bookworm.somee.com/"
       },
       {
-        "title": "FinePrint",
-        "category": "Adding value to ink \n Website no longer available.",
+        "title": "FinePrint Publication",
+        "category": "Adding value to ink",
         "image": "fp.png"
         
       },
